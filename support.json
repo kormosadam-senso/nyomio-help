@@ -1,239 +1,346 @@
 {
-  "topics":
-  [{"name":"basic",
-    "id":0,
-    "categories":[{
-      "id": 0,
-      "question": "Edit personal details",
-      "answer": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-      "alt": []
-
-    },{
-      "id": 1,
-      "question": "My tracker has been lost or stolen",
-      "answer": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-      "alt": []
-    },{
-      "id": 2,
-      "question": "I want to delete my trackers",
-      "answer": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-      "alt": [0,3,5]
-    }
-    ]
-  },
+  "topics": [
     {
-      "name":"trackers",
-      "id":1,
-      "categories":[{
-        "id": 0,
-        "question": "I need to verify my trackers",
-        "answer": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-        "alt": []
-      },{
-        "id": 1,
-        "question": "Tracker limits",
-        "answer": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-        "alt": [0,3,5]
-      },{
-        "id": 2,
-        "question": "Edit personal details",
-        "answer": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-        "alt": []
-      },{
-        "id": 3,
-        "question": "I want to delete my trackers",
-        "answer": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-        "alt": [0,2]
-      }
+      "name": "basic",
+      "id": 0,
+      "categories": [
+        {
+          "id": 0,
+          "question": "Edit personal details",
+          "answer": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+          "alt": []
+        },
+        {
+          "id": 1,
+          "question": "My tracker has been lost or stolen",
+          "answer": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+          "alt": []
+        },
+        {
+          "id": 2,
+          "question": "I want to delete my trackers",
+          "answer": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+          "alt": [
+            0,
+            3,
+            5
+          ]
+        }
       ]
     },
-    {"name":"account",
-      "id":2,
-      "categories":[{
-        "id": 0,
-        "question" : "I need to verify my trackers",    "answer": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-        "alt": []
-      },{
-        "id": 1,
-        "question": "Tracker limits",    "answer": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-        "alt": []
-      },{
-        "id": 2,
-        "question": "Edit personal details",    "answer": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-        "alt": []
-      },{
-        "id": 3,
-        "question": "My tracker has been lost or stolen",    "answer": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-        "alt": [1,2,3]
-      },{
-        "id": 4,
-        "question": "I want to delete my trackers",    "answer": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-        "alt": [1,3,5]
-      }
+    {
+      "name": "trackers",
+      "id": 1,
+      "categories": [
+        {
+          "id": 0,
+          "question": "How can I register trackers?",
+          "answer": "After tapping trackers list, you can either tap on the plus sign or the +Tracker button to add a new tracker. Depending on what device you wish to track, you can buy a new tracker for your car or add a new tracker for tracking a mobile phone. cars Tracker install: attach the trackers power cables to the cars battery ??? phones Enable location services on phone ???",
+          "alt": []
+        },
+        {
+          "id": 1,
+          "question": "How can I enable location services on my phone?",
+          "answer": "android First tap on the Settings, then on Location, and move the slider to On. By tapping on Mode you can select the Mode you prefer: High accuracy: Delivers the most accurate location information by using GPS, Wi-Fi networks, Bluetooth, and cellular networks to determine your location. It's got the highest accuracy, but it uses more battery and has less privacy. Battery saving: Saves battery by not using GPS, but still uses the other technologies. Less accurate and it has lower privacy. Device only: Best if you care a lot about privacy and are OK with somewhat less accurate data. Because it doesn't use cellular, Wi-Fi, or Bluetooth, it leaves fewer digital tracks. IOS First tap on the Settings then on Privacy, and finally, please, tap on Location Services. Move the Location Services slider to on/green. Location Services are now turned on and Nyomio can start accessing your location right away.",
+          "alt": [
+            0,
+            3,
+            5
+          ]
+        },
+        {
+          "id": 2,
+          "question": " I can't see trackers on the list",
+          "answer": "Please, make sure you have gone through the process of adding a new tracker.",
+          "alt": []
+        },
+        {
+          "id": 3,
+          "question": "I can't see trackers on the map",
+          "answer": "Have I added the tracker properly? Please, make sure you have gone through all the process of adding a new tracker.  See how Are the Location Services turned on? If you are still unable to see the tracker you wish, please, make sure the Location Services of the device you wish to track, are turned on. See how  Is the tracking on in Nyomio? After logging in to Nyomio, please, tap on the Tracker, then on the Advanced button. If the tracking is not ticked, please, tap on it to turn the tracking on. ",
+          "alt": [
+            0,
+            2
+          ]
+        }
       ]
     },
-    {"name":"profile",
-      "id":3,
-      "categories":[{
-        "id": 0,
-        "question": "I need to verify my trackers",    "answer": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-        "alt": []
-      },{
-        "id": 1,
-        "question": "Tracker limits",    "answer": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-        "alt": []
-      },{
-        "id": 2,
-        "question": "Edit personal details",    "answer": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-        "alt": []
-      },{
-        "id": 3,
-        "question": "My tracker has been lost or stolen",    "answer": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-        "alt": []
-      },{
-        "id": 4,
-        "question": "I want to delete my trackers",    "answer": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-        "alt": []
-      }]
-
-    },
-    {"name":"nyomio",
-      "id":0,
-      "categories":[{
-        "id": 0,
-        "question": "I need to verify my trackers",    "answer": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-        "alt": []
-      },{
-        "id": 1,
-        "question": "Tracker limits",    "answer": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-        "alt": [2,3,4,5,6,7]
-      },{
-        "id": 2,
-        "question": "Edit personal details",    "answer": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-        "alt": []
-      }
+    {
+      "name": "account",
+      "id": 2,
+      "categories": [
+        {
+          "id": 0,
+          "question": "How can I create an account?",
+          "answer": "You can easily create a new account by either registering a completely new one or using your Google, Facebook or Microsoft account. For registering a completely new account, you need to provide a valid email address and a password.",
+          "alt": []
+        },
+        {
+          "id": 1,
+          "question": "What payment methods can I choose?",
+          "answer": "In order to upgrade your account you can choose from the following payment methods: bank or credit card (mastercard or visa???), transferwise, revolut, paypal, payoneer???",
+          "alt": []
+        },
+        {
+          "id": 2,
+          "question": "Edit personal details",
+          "answer": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+          "alt": []
+        },
+        {
+          "id": 3,
+          "question": "My tracker has been lost or stolen",
+          "answer": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+          "alt": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "id": 4,
+          "question": "I want to delete my trackers",
+          "answer": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+          "alt": [
+            1,
+            3,
+            5
+          ]
+        }
       ]
     },
-    {"name":"more",
-      "id":0,
-      "categories":[{
-        "id": 0,
-        "question": "I need to verify my trackers",    "answer": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-        "alt": []
-      },{
-        "id": 1,
-        "question": "Tracker limits",    "answer": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-        "alt": [1,2,3,4,5,7,8,9,10,11]
-      },{
-        "id": 2,
-        "question": "Edit personal details",    "answer": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-        "alt": []
-      }
+    {
+      "name": "profile",
+      "id": 3,
+      "categories": [
+        {
+          "id": 0,
+          "question": "I need to verify my trackers",
+          "answer": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+          "alt": []
+        },
+        {
+          "id": 1,
+          "question": "Tracker limits",
+          "answer": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+          "alt": []
+        },
+        {
+          "id": 2,
+          "question": "Edit personal details",
+          "answer": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+          "alt": []
+        },
+        {
+          "id": 3,
+          "question": "My tracker has been lost or stolen",
+          "answer": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+          "alt": []
+        },
+        {
+          "id": 4,
+          "question": "I want to delete my trackers",
+          "answer": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+          "alt": []
+        }
+      ]
+    },
+    {
+      "name": "nyomio",
+      "id": 0,
+      "categories": [
+        {
+          "id": 0,
+          "question": "I need to verify my trackers",
+          "answer": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+          "alt": []
+        },
+        {
+          "id": 1,
+          "question": "Tracker limits",
+          "answer": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+          "alt": [
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        },
+        {
+          "id": 2,
+          "question": "Edit personal details",
+          "answer": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+          "alt": []
+        }
+      ]
+    },
+    {
+      "name": "more",
+      "id": 0,
+      "categories": [
+        {
+          "id": 0,
+          "question": "I need to verify my trackers",
+          "answer": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+          "alt": []
+        },
+        {
+          "id": 1,
+          "question": "Tracker limits",
+          "answer": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+          "alt": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            7,
+            8,
+            9,
+            10,
+            11
+          ]
+        },
+        {
+          "id": 2,
+          "question": "Edit personal details",
+          "answer": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+          "alt": []
+        }
       ]
     }
   ],
   "questions": [
     {
       "id": 0,
-    "topicId": 0,
-    "categoryId": 0,
-    "question":"Lorem ipsum Tracker......?",
-    "answer": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+      "topicId": 0,
+      "categoryId": 0,
+      "question": "how to edit tracker infos",
+      "answer": "After tapping on Trackers List, please, tap on the cogwheel next to the trackers name. "
     },
     {
       "id": 1,
-    "topicId": 1,
-    "categoryId": 2,
-    "question":"Ipsum lorem tracker......?",
-    "answer": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+      "topicId": 1,
+      "categoryId": 2,
+      "question": "how to see tracker history",
+      "answer": "After tapping on the tracker shown on the map, please, tap on the clock sign, where you can find the trackers history which is shown on the map or in a chart."
     },
-    { "id": 2, "categoryId": 3,
-    "topicId": 2,
-    "question":"Lorem ipsum tracking......?",
-    "answer": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    {
+      "id": 2,
+      "categoryId": 3,
+      "topicId": 2,
+      "question": "how to reset tracker history",
+      "answer": "After tapping on Trackers List, please, tap on the cogwheel next to the trackers name. Then, please, go to the Advanced tab where you can find the Reset tracker/ delete history button. By using that, you can either reset the tracker or delete its history. "
     },
-    { "id": 3, "categoryId": 0,
-    "topicId": 3,
-    "question":"ipsum lorem track......?",
-    "answer": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    {
+      "id": 3,
+      "categoryId": 0,
+      "topicId": 3,
+      "question": "how to delete tracker",
+      "answer": "After tapping on Trackers List, please, tap on the cogwheel next to the trackers name. Then, please, go to the Advanced tab where you can find the Delete Tracker button. By using that, you can delete any tracker."
     },
-    { "id": 4, "categoryId": 4,
-    "topicId": 2,
-    "question":"Lorem tracker ipsum......?",
-    "answer": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
-    }, {"id": 5,  "categoryId": 4,
-    "topicId": 3,
-    "question":"Lorem ipsum tracking......?",
-    "answer": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    {
+      "id": 4,
+      "categoryId": 4,
+      "topicId": 2,
+      "question": "how to transfer ownership",
+      "answer": "After tapping on Trackers List, please, tap on the cogwheel next to the trackers name. Then, please, go to the Advanced tab where you can find the Transfer ownership button. By using that, you can transfer ownership of a tracker to another user."
     },
-    {  "id": 6,"categoryId": 5,   "topicId": 0,
-    "question":"ipsum lorem track......?",
-    "answer": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    {
+      "id": 5,
+      "categoryId": 4,
+      "topicId": 3,
+      "question": "how to run diagnostics",
+      "answer": "After tapping on Trackers List, please, tap on the cogwheel next to the trackers name. Then, please, go to the Advanced tab where you can find the Diagnostics button. By using that, you can run a diagnostic on your trackers with different parameters."
     },
-    {  "id": 7, "categoryId": 6,
-    "topicId": 3,
-    "question":"Lorem tracker ipsum......?",
-    "answer": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    {
+      "id": 6,
+      "categoryId": 5,
+      "topicId": 0,
+      "question": "how to share tracker or location",
+      "answer": "After tapping on Trackers List, please, tap on the cogwheel next to the trackers name. On the Sharing tab, you can find a Share button which you can use to share the tracker with another user."
+    },
+    {
+      "id": 7,
+      "categoryId": 6,
+      "topicId": 3,
+      "question": "payment and billing option",
+      "answer": "In order to upgrade your account you can choose from the following payment methods: bank or credit card (mastercard or visa???), transferwise, revolut, paypal, payoneer??? In order to upgrade or change billing information, please, tap on you profile, and on the Subscription tab, you can edit the billing information or upgrade your subscription. Payment history After tapping on you profile, and on the Subscription tab, you can see your Payment history from where you can also download your invoices in PDF format."
     },
     {
       "id": 8,
-    "topicId": 1,
-    "categoryId": 1,
-    "question":"Lorem ipsum Tracker......?",
-    "answer": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+      "topicId": 1,
+      "categoryId": 1,
+      "question": " how to reset password",
+      "answer": "You can change your password anytime by tapping on your profile. On the Account tab you can find the option Change password. can the account be locked? if so, how to unlock it? what if user cannot log in at all? "
     },
     {
       "id": 9,
-    "topicId": 3,
-    "categoryId": 4,
-    "question":"Ipsum lorem tracker......?",
-    "answer": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+      "topicId": 3,
+      "categoryId": 4,
+      "question": " why is it useful?",
+      "answer": "Whether you wish to track your employees or want to make sure your child is going to school properly, Nyomio is a suitable app for tracking those who are important for you and your business. Using real time GPS tracking, Nyomio can monitor trackers movements on a map and store them in a database. It is perfect for personal use and for managing fleets or employees. "
     },
-    { "id": 10, "categoryId": 1,
-    "topicId": 2,
-    "question":"Lorem ipsum tracking......?",
-    "answer": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    {
+      "id": 10,
+      "categoryId": 1,
+      "topicId": 2,
+      "question": " what is real time GPS tracking?",
+      "answer": "Real-time GPS trackers allow users to monitor persons, animals, vehicles, or, really, anything else in real time. The user can track the subject's movement through frequent data updates that range from every few seconds to every few hours. GPS tracking uses a network of satellites to determine the location of a device. The difference between a GPS tracker and a normal, well-known car navigation system is that the navigation system provides you with your location and driving directions only, while a tracker either keeps a record of your driving habits or broadcasts its location in real-time."
     },
-    { "id": 11, "categoryId": 0,
-    "topicId": 4,
-    "question":"ipsum lorem track......?",
-    "answer": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    {
+      "id": 11,
+      "categoryId": 0,
+      "topicId": 4,
+      "question": "ipsum lorem track......?",
+      "answer": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
     },
-    { "id": 12, "categoryId": 2,
-    "topicId": 2,
-    "question":"Lorem tracker ipsum......?",
-    "answer": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
-    }, {"id": 13,  "categoryId": 0,
-    "topicId": 3,
-    "question":"Lorem ipsum tracking......?",
-    "answer": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    {
+      "id": 12,
+      "categoryId": 2,
+      "topicId": 2,
+      "question": "Lorem tracker ipsum......?",
+      "answer": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
     },
-    {  "id": 14,"categoryId": 4,   "topicId": 0,
-    "question":"ipsum lorem track......?",
-    "answer": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    {
+      "id": 13,
+      "categoryId": 0,
+      "topicId": 3,
+      "question": "Lorem ipsum tracking......?",
+      "answer": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
     },
-    {  "id": 15, "categoryId": 4,
-    "topicId": 3,
-    "question":"Lorem tracker ipsum......?",
-    "answer": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    {
+      "id": 14,
+      "categoryId": 4,
+      "topicId": 0,
+      "question": "ipsum lorem track......?",
+      "answer": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "id": 15,
+      "categoryId": 4,
+      "topicId": 3,
+      "question": "Lorem tracker ipsum......?",
+      "answer": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
     }
-
   ],
-  "socialmedia":[
-      {
-          "name": "Facebook",
-          "appId": "217358655031408",
-          "url": "https://www.facebook.com/inetrackHU/"
-      },
-      {
-          "name": "Instagram",
-          "appId": "",
-          "url": "https://www.instagram.com/inetrack/?hl=en"
-      },
-      {
-          "name": "Twitter",
-          "appId": "",
-          "url": "https://twitter.com/inetrack?lang=en"
-      }
-      ]
+  "socialmedia": [
+    {
+      "name": "Facebook",
+      "appId": "217358655031408",
+      "url": "https://www.facebook.com/inetrackHU/"
+    },
+    {
+      "name": "Instagram",
+      "appId": "",
+      "url": "https://www.instagram.com/inetrack/?hl=en"
+    },
+    {
+      "name": "Twitter",
+      "appId": "",
+      "url": "https://twitter.com/inetrack?lang=en"
+    }
+  ]
 }
