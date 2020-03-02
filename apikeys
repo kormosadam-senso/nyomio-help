@@ -1,0 +1,20 @@
+[
+    {
+    "name": "private",
+    "key": "a2f8660e69ed48bf8f029b260db33c41",
+    "start": "2020.03.01",
+    "expires": "2022.02.28"
+    },
+    {
+    "name": "work",
+    "key": "4f9d888e9a0445bb8d2e77548aa6dcbe",
+    "start": "2020.03.01",
+    "expires": "2020.09.01"
+    },
+    {
+    "name": "test",
+    "key": "32da7660acc64f4283866ce39c598257",
+    "start": "2020.03.01",
+    "expires": "2020.04.01"
+}
+]
