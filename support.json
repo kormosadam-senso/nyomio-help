@@ -6,26 +6,46 @@
       "categories": [
         {
           "id": 0,
-          "question": "Edit personal details",
-          "answer": "<b>It has survived not</b> only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+          "question": "How can I create an account?",
+          "answer": "You can easily create a new account by either registering a completely new one or using your Google, Facebook or Microsoft account. For registering a completely new account, you need to provide a valid email address and a password.",
           "alt": []
         },
         {
           "id": 1,
-          "question": "My tracker has been lost or stolen",
-          "answer": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+          "question": "Which subscription should I choose?",
+          "answer": "The Basic subscription allows you to manage maximum ten trackers at the same time. Trackers are monitored real time and the data is stored for a specific time so you can check the tracker's history anytime you need. Also, you can easily share your trackers with other users, or join to an already existing fleet or group. Subscription Fee: free of charge. The Professional subscription allows you to manage maximum fifty trackers at the same time. Trackers are monitored real time and the data is stored for a specific time so you can check the tracker's history anytime you need. You can easily share your trackers with other users, create groups and even edit your trackers as you see fit. In this model you can manage basic permissions, Admin and User/View permissions. Editing trackers, and groups are only possible for Admin users. Users with View permission are not able to edit or even add trackers. Admin users are also able to access the application's API. Subscription Fee: See monthly subscription fee. The Enterprise subscription allows you to manage hundreds of trackers at the same time. Trackers are monitored real time and the data is stored for a specific time so you can check the tracker's history anytime you need. Sophisticated diagnostics and data analysis are also available in this model. Furthermore, you can create nested groups and hierarchy within your fleet with highly defined user access management options. Admin users are also able to access the application's API. Subscription Fee: request offer.",
           "alt": []
         },
         {
           "id": 2,
-          "question": "I want to delete my trackers",
-          "answer": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-          "alt": [
-            0,
-            3,
-            5
-          ]
-        }
+          "question": "How can I register trackers?",
+          "answer": "After tapping tracker's list, you can either tap on the “plus” sign or the “+Tracker” button to add a new tracker. Depending on what device you wish to track, you can buy a new tracker for your car or add a new tracker for tracking a mobile phone.",
+          "alt": []
+        },
+        {
+          "id": 3,
+          "question": "How can I register cars as trackers?",
+          "answer": "After ordering a new tracker for your car, we will assign the tracker to your account in the background. The only thing you need to do is connect the tracker’s power cables to the car’s battery, which will automatically turn the tracker on, and you will be able to see the tracker on your trackers list.",
+          "alt": []
+        },
+        {
+          "id": 4,
+          "question": "How can I register mobile phones as trackers?",
+          "answer": "In case you wish to track mobile phones, the first step is to download Nyomio on the phone you want to track. Location Services must be enabled on the phone. See how ->. After installing the app and enabling location services, you can easily share the tracker with other Nyomio users allowing them to see your location. See how ->.",
+          "alt": []
+        },
+        {
+          "id": 5,
+          "question": "How can I enable location services on my mobile phone - Android?",
+          "answer": "First tap on the ‘Settings’, then on ’Location’, and move the slider to ‘On’. By tapping on ‘Mode’ you can select the ‘Mode’ you prefer.",
+          "alt": []
+        },
+        {
+          "id": 6,
+          "question": "How can I enable location services on my mobile phone - IOS?",
+          "answer": "First tap on the ‘Settings’ then on ‘Privacy’, and finally, please, tap on ‘Location Services’. Move the ‘Location Services’ slider to on/green. Location Services are now turned on and Nyomio can start accessing your location right away.",
+          "alt": []
+        },
       ]
     },
     {
