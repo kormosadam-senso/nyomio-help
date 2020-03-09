@@ -7,44 +7,37 @@
         {
           "id": 0,
           "question": "How can I create an account?",
-          "answer": "You can easily create a new account by either registering a completely new one or using your Google, Facebook or Microsoft account. For registering a completely new account, you need to provide a valid email address and a password.",
-          "alt": []
+          "answer": "You can easily create a new account by either registering a completely new one or using your Google, Facebook or Microsoft account. For registering a completely new account, you need to provide a valid email address and a password."
         },
         {
           "id": 1,
           "question": "Which subscription should I choose?",
-          "answer": "The Basic subscription allows you to manage maximum ten trackers at the same time. Trackers are monitored real time and the data is stored for a specific time so you can check the tracker's history anytime you need. Also, you can easily share your trackers with other users, or join to an already existing fleet or group. Subscription Fee: free of charge. The Professional subscription allows you to manage maximum fifty trackers at the same time. Trackers are monitored real time and the data is stored for a specific time so you can check the tracker's history anytime you need. You can easily share your trackers with other users, create groups and even edit your trackers as you see fit. In this model you can manage basic permissions, Admin and User/View permissions. Editing trackers, and groups are only possible for Admin users. Users with View permission are not able to edit or even add trackers. Admin users are also able to access the application's API. Subscription Fee: See monthly subscription fee. The Enterprise subscription allows you to manage hundreds of trackers at the same time. Trackers are monitored real time and the data is stored for a specific time so you can check the tracker's history anytime you need. Sophisticated diagnostics and data analysis are also available in this model. Furthermore, you can create nested groups and hierarchy within your fleet with highly defined user access management options. Admin users are also able to access the application's API. Subscription Fee: request offer.",
-          "alt": []
+          "answer": "The Basic subscription allows you to manage maximum ten trackers at the same time. Trackers are monitored real time and the data is stored for a specific time so you can check the tracker's history anytime you need. Also, you can easily share your trackers with other users, or join to an already existing fleet or group. Subscription Fee: free of charge. The Professional subscription allows you to manage maximum fifty trackers at the same time. Trackers are monitored real time and the data is stored for a specific time so you can check the tracker's history anytime you need. You can easily share your trackers with other users, create groups and even edit your trackers as you see fit. In this model you can manage basic permissions, Admin and User/View permissions. Editing trackers, and groups are only possible for Admin users. Users with View permission are not able to edit or even add trackers. Admin users are also able to access the application's API. Subscription Fee: See monthly subscription fee. The Enterprise subscription allows you to manage hundreds of trackers at the same time. Trackers are monitored real time and the data is stored for a specific time so you can check the tracker's history anytime you need. Sophisticated diagnostics and data analysis are also available in this model. Furthermore, you can create nested groups and hierarchy within your fleet with highly defined user access management options. Admin users are also able to access the application's API. Subscription Fee: request offer."
         },
         {
           "id": 2,
           "question": "How can I register trackers?",
-          "answer": "After tapping tracker's list, you can either tap on the “plus” sign or the “+Tracker” button to add a new tracker. Depending on what device you wish to track, you can buy a new tracker for your car or add a new tracker for tracking a mobile phone.",
-          "alt": []
+          "answer": "After tapping tracker's list, you can either tap on the “plus” sign or the “+Tracker” button to add a new tracker. Depending on what device you wish to track, you can buy a new tracker for your car or add a new tracker for tracking a mobile phone."
         },
         {
           "id": 3,
           "question": "How can I register cars as trackers?",
-          "answer": "After ordering a new tracker for your car, we will assign the tracker to your account in the background. The only thing you need to do is connect the tracker’s power cables to the car’s battery, which will automatically turn the tracker on, and you will be able to see the tracker on your trackers list.",
-          "alt": []
+          "answer": "After ordering a new tracker for your car, we will assign the tracker to your account in the background. The only thing you need to do is connect the tracker’s power cables to the car’s battery, which will automatically turn the tracker on, and you will be able to see the tracker on your trackers list."
         },
         {
           "id": 4,
           "question": "How can I register mobile phones as trackers?",
-          "answer": "In case you wish to track mobile phones, the first step is to download Nyomio on the phone you want to track. Location Services must be enabled on the phone. See how ->. After installing the app and enabling location services, you can easily share the tracker with other Nyomio users allowing them to see your location. See how ->.",
-          "alt": []
+          "answer": "In case you wish to track mobile phones, the first step is to download Nyomio on the phone you want to track. Location Services must be enabled on the phone. See how ->. After installing the app and enabling location services, you can easily share the tracker with other Nyomio users allowing them to see your location. See how ->."
         },
         {
           "id": 5,
           "question": "How can I enable location services on my mobile phone - Android?",
-          "answer": "First tap on the ‘Settings’, then on ’Location’, and move the slider to ‘On’. By tapping on ‘Mode’ you can select the ‘Mode’ you prefer.",
-          "alt": []
+          "answer": "First tap on the ‘Settings’, then on ’Location’, and move the slider to ‘On’. By tapping on ‘Mode’ you can select the ‘Mode’ you prefer."
         },
         {
           "id": 6,
           "question": "How can I enable location services on my mobile phone - IOS?",
-          "answer": "First tap on the ‘Settings’ then on ‘Privacy’, and finally, please, tap on ‘Location Services’. Move the ‘Location Services’ slider to on/green. Location Services are now turned on and Nyomio can start accessing your location right away.",
-          "alt": []
+          "answer": "First tap on the ‘Settings’ then on ‘Privacy’, and finally, please, tap on ‘Location Services’. Move the ‘Location Services’ slider to on/green. Location Services are now turned on and Nyomio can start accessing your location right away."
         },
       ]
     },
@@ -55,33 +48,22 @@
         {
           "id": 0,
           "question": "How can I register trackers?",
-          "answer": "After tapping trackers list, you can either tap on the plus sign or the +Tracker button to add a new tracker. Depending on what device you wish to track, you can buy a new tracker for your car or add a new tracker for tracking a mobile phone. cars Tracker install: attach the trackers power cables to the cars battery ??? phones Enable location services on phone ???",
-          "alt": []
+          "answer": "After tapping trackers list, you can either tap on the plus sign or the +Tracker button to add a new tracker. Depending on what device you wish to track, you can buy a new tracker for your car or add a new tracker for tracking a mobile phone. cars Tracker install: attach the trackers power cables to the cars battery ??? phones Enable location services on phone ???"
         },
         {
           "id": 1,
           "question": "How can I enable location services on my phone?",
-          "answer": "android First tap on the Settings, then on Location, and move the slider to On. By tapping on Mode you can select the Mode you prefer: High accuracy: Delivers the most accurate location information by using GPS, Wi-Fi networks, Bluetooth, and cellular networks to determine your location. It's got the highest accuracy, but it uses more battery and has less privacy. Battery saving: Saves battery by not using GPS, but still uses the other technologies. Less accurate and it has lower privacy. Device only: Best if you care a lot about privacy and are OK with somewhat less accurate data. Because it doesn't use cellular, Wi-Fi, or Bluetooth, it leaves fewer digital tracks. IOS First tap on the Settings then on Privacy, and finally, please, tap on Location Services. Move the Location Services slider to on/green. Location Services are now turned on and Nyomio can start accessing your location right away.",
-          "alt": [
-            0,
-            3,
-            5
-          ]
+          "answer": "android First tap on the Settings, then on Location, and move the slider to On. By tapping on Mode you can select the Mode you prefer: High accuracy: Delivers the most accurate location information by using GPS, Wi-Fi networks, Bluetooth, and cellular networks to determine your location. It's got the highest accuracy, but it uses more battery and has less privacy. Battery saving: Saves battery by not using GPS, but still uses the other technologies. Less accurate and it has lower privacy. Device only: Best if you care a lot about privacy and are OK with somewhat less accurate data. Because it doesn't use cellular, Wi-Fi, or Bluetooth, it leaves fewer digital tracks. IOS First tap on the Settings then on Privacy, and finally, please, tap on Location Services. Move the Location Services slider to on/green. Location Services are now turned on and Nyomio can start accessing your location right away."
         },
         {
           "id": 2,
           "question": " I can't see trackers on the list",
-          "answer": "Please, make sure you have gone through the process of adding a new tracker.",
-          "alt": []
+          "answer": "Please, make sure you have gone through the process of adding a new tracker."
         },
         {
           "id": 3,
           "question": "I can't see trackers on the map",
-          "answer": "Have I added the tracker properly? Please, make sure you have gone through all the process of adding a new tracker.  See how Are the Location Services turned on? If you are still unable to see the tracker you wish, please, make sure the Location Services of the device you wish to track, are turned on. See how  Is the tracking on in Nyomio? After logging in to Nyomio, please, tap on the Tracker, then on the Advanced button. If the tracking is not ticked, please, tap on it to turn the tracking on. ",
-          "alt": [
-            0,
-            2
-          ]
+          "answer": "Have I added the tracker properly? Please, make sure you have gone through all the process of adding a new tracker.  See how Are the Location Services turned on? If you are still unable to see the tracker you wish, please, make sure the Location Services of the device you wish to track, are turned on. See how  Is the tracking on in Nyomio? After logging in to Nyomio, please, tap on the Tracker, then on the Advanced button. If the tracking is not ticked, please, tap on it to turn the tracking on. "
         }
       ]
     },
@@ -92,40 +74,27 @@
         {
           "id": 0,
           "question": "How can I create an account?",
-          "answer": "You can easily create a new account by either registering a completely new one or using your Google, Facebook or Microsoft account. For registering a completely new account, you need to provide a valid email address and a password.",
-          "alt": []
+          "answer": "You can easily create a new account by either registering a completely new one or using your Google, Facebook or Microsoft account. For registering a completely new account, you need to provide a valid email address and a password."
         },
         {
           "id": 1,
           "question": "What payment methods can I choose?",
-          "answer": "In order to upgrade your account you can choose from the following payment methods: bank or credit card (mastercard or visa???), transferwise, revolut, paypal, payoneer???",
-          "alt": []
+          "answer": "In order to upgrade your account you can choose from the following payment methods: bank or credit card (mastercard or visa???), transferwise, revolut, paypal, payoneer???"
         },
         {
           "id": 2,
           "question": "Edit personal details",
-          "answer": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-          "alt": []
+          "answer": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
         },
         {
           "id": 3,
           "question": "My tracker has been lost or stolen",
-          "answer": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-          "alt": [
-            1,
-            2,
-            3
-          ]
+          "answer": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
         },
         {
           "id": 4,
           "question": "I want to delete my trackers",
-          "answer": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-          "alt": [
-            1,
-            3,
-            5
-          ]
+          "answer": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
         }
       ]
     },
@@ -136,32 +105,27 @@
         {
           "id": 0,
           "question": "I need to verify my trackers",
-          "answer": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-          "alt": []
+          "answer": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
         },
         {
           "id": 1,
           "question": "Tracker limits",
-          "answer": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-          "alt": []
+          "answer": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
         },
         {
           "id": 2,
           "question": "Edit personal details",
-          "answer": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-          "alt": []
+          "answer": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
         },
         {
           "id": 3,
           "question": "My tracker has been lost or stolen",
-          "answer": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-          "alt": []
+          "answer": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
         },
         {
           "id": 4,
           "question": "I want to delete my trackers",
-          "answer": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-          "alt": []
+          "answer": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
         }
       ]
     },
@@ -172,27 +136,17 @@
         {
           "id": 0,
           "question": "I need to verify my trackers",
-          "answer": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-          "alt": []
+          "answer": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
         },
         {
           "id": 1,
           "question": "Tracker limits",
-          "answer": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-          "alt": [
-            2,
-            3,
-            4,
-            5,
-            6,
-            7
-          ]
+          "answer": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
         },
         {
           "id": 2,
           "question": "Edit personal details",
-          "answer": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-          "alt": []
+          "answer": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
         }
       ]
     },
@@ -203,31 +157,17 @@
         {
           "id": 0,
           "question": "I need to verify my trackers",
-          "answer": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-          "alt": []
+          "answer": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
         },
         {
           "id": 1,
           "question": "Tracker limits",
-          "answer": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-          "alt": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            7,
-            8,
-            9,
-            10,
-            11
-          ]
+          "answer": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
         },
         {
           "id": 2,
           "question": "Edit personal details",
-          "answer": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-          "alt": []
+          "answer": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
         }
       ]
     }
