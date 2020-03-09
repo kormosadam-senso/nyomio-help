@@ -40,7 +40,7 @@
           "id": 1098,
           "name": "tracker98",
           "description": "tracker98",
-          "latitude": 47.507411,
+          "latitude": 47.407411,
           "longitude": 19.05033,
           "image": "https://i.picsum.photos/id/122/200/300.jpg"
         },
@@ -48,7 +48,7 @@
           "id": 1078,
           "name": "tracker78",
           "description": "tracker78",
-          "latitude": 47.506008,
+          "latitude": 47.406008,
           "longitude": 19.050156,
           "image": "https://i.picsum.photos/id/182/200/300.jpg"
         },
@@ -56,7 +56,7 @@
           "id": 1099,
           "name": "tracker99",
           "description": "tracker99",
-          "latitude": 47.50733,
+          "latitude": 47.40733,
           "longitude": 19.04905,
           "image": "https://i.picsum.photos/id/212/200/300.jpg"
         }
