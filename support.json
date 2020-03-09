@@ -93,23 +93,23 @@
         },
         {
           "id": 1,
-          "question": "What payment methods can I choose?",
-          "answer": "In order to upgrade your account you can choose from the following payment methods: bank or credit card (mastercard or visa???), transferwise, revolut, paypal, payoneer???"
+          "question": "How can I reset my password?",
+          "answer": "You can change your password anytime by tapping on your profile. On the ‘Account’ tab you can find the option ‘Change password’. "
         },
         {
           "id": 2,
-          "question": "Edit personal details",
+          "question": "How can I upgrade my subscription?",
           "answer": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
         },
         {
           "id": 3,
           "question": "My tracker has been lost or stolen",
-          "answer": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+          "answer": "In order to upgrade your account, please tap on your profile, and on the 'Subscription’ tab. Please, tap on the Upgrade button next to your subscription. "
         },
         {
           "id": 4,
-          "question": "I want to delete my trackers",
-          "answer": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+          "question": "How can I edit billing information?",
+          "answer": "In order to change billing information, please, tap on you profile, and on the ‘Subscription’ tab where you can edit the billing information. "
         }
       ]
     },
@@ -119,28 +119,13 @@
       "categories": [
         {
           "id": 0,
-          "question": "I need to verify my trackers",
-          "answer": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+          "question": "How can I edit personal information?",
+          "answer": "You can change your personal information by tapping on your profile picture, and then on the 'Account' tab. "
         },
         {
           "id": 1,
-          "question": "Tracker limits",
-          "answer": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
-        },
-        {
-          "id": 2,
-          "question": "Edit personal details",
-          "answer": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
-        },
-        {
-          "id": 3,
-          "question": "My tracker has been lost or stolen",
-          "answer": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
-        },
-        {
-          "id": 4,
-          "question": "I want to delete my trackers",
-          "answer": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+          "question": "How can I see payment history?",
+          "answer": "After tapping on you profile, and on the ‘Subscription’ tab, you can see your ‘Payment history’ from where you can also download your invoices in PDF format. "
         }
       ]
     },
@@ -150,18 +135,13 @@
       "categories": [
         {
           "id": 0,
-          "question": "I need to verify my trackers",
-          "answer": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+          "question": "Why is Nyomio useful?",
+          "answer": "Whether you wish to track your employees or want to make sure your child is going to school properly, Nyomio is a suitable app for tracking those who are important for you and your business. Using real time GPS tracking, Nyomio can monitor trackers movements on a map and store them in a database. It is perfect for personal use and for managing fleets or employees. "
         },
         {
           "id": 1,
-          "question": "Tracker limits",
-          "answer": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
-        },
-        {
-          "id": 2,
-          "question": "Edit personal details",
-          "answer": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+          "question": "What is real time GPS tracking?",
+          "answer": "Real-time GPS trackers allow users to monitor persons, animals, vehicles, or, really, anything else in real time. The user can track the subject's movement through frequent data updates that range from every few seconds to every few hours. GPS tracking uses a network of satellites to determine the location of a device. The difference between a GPS tracker and a normal, well-known car navigation system is that the navigation system provides you with your location and driving directions only, while a tracker either keeps a record of your driving habits or broadcasts its location in real-time. "
         }
       ]
     },
@@ -171,18 +151,13 @@
       "categories": [
         {
           "id": 0,
-          "question": "I need to verify my trackers",
-          "answer": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+          "question": "Is there a possibility for IT integration?",
+          "answer": "Pro and Enterprise users have access to the application's API which makes IT integration possible."
         },
         {
           "id": 1,
-          "question": "Tracker limits",
-          "answer": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
-        },
-        {
-          "id": 2,
-          "question": "Edit personal details",
-          "answer": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+          "question": "What is API?",
+          "answer": "API stands for Application Programming Interface. It is a software intermediary that allows two applications to talk to each other. Like a messenger of some sort. A good API makes it easier to develop a program by providing the building blocks, which means your developers do not need to start to create code from scratch. If they do not have to reinvent the wheel, they can save time by focusing on the unique proposition of their applications. API saves time to your developers, saves money to you."
         }
       ]
     }
