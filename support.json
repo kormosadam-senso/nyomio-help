@@ -64,6 +64,21 @@
           "id": 3,
           "question": "I can't see trackers on the map",
           "answer": "Have I added the tracker properly? Please, make sure you have gone through all the process of adding a new tracker.  See how Are the Location Services turned on? If you are still unable to see the tracker you wish, please, make sure the Location Services of the device you wish to track, are turned on. See how  Is the tracking on in Nyomio? After logging in to Nyomio, please, tap on the Tracker, then on the Advanced button. If the tracking is not ticked, please, tap on it to turn the tracking on. "
+        },
+        {
+          "id": 4,
+          "question": "How can I edit tracker's information?",
+          "answer": "After tapping on Trackers’ List, please, tap on the cogwheel next to the tracker’s name. "
+        },
+        {
+          "id": 5,
+          "question": "How can I see the tracker's history?",
+          "answer": "After tapping on the tracker shown on the map, please, tap on the ‘clock’ sign, where you can find the tracker’s history which is shown on the map or in a chart. "
+        },
+        {
+          "id": 6,
+          "question": "How can I share trackers?",
+          "answer": "After tapping on Trackers’ List, please, tap on the cogwheel next to the tracker’s name. On the ‘Sharing’ tab, you can find a ‘Share’ button which you can use to share the tracker with another user. "
         }
       ]
     },
