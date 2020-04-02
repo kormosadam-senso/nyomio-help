@@ -1,0 +1,296 @@
+{
+  "topics": [
+    {
+      "name": "basic",
+      "id": 0,
+      "categories": [
+        {
+          "id": 0,
+          "question": "How can I create an account?",
+          "answer": "You can easily create a new account by either registering a completely new one or using your Google, Facebook or Microsoft account. For registering a completely new account, you need to provide a valid email address and a password."
+        },
+        {
+          "id": 1,
+          "question": "Which subscription should I choose?",
+          "answer": "The Basic subscription allows you to manage maximum ten trackers at the same time. Trackers are monitored real time and the data is stored for a specific time so you can check the tracker's history anytime you need. Also, you can easily share your trackers with other users, or join to an already existing fleet or group. Subscription Fee: free of charge. The Professional subscription allows you to manage maximum fifty trackers at the same time. Trackers are monitored real time and the data is stored for a specific time so you can check the tracker's history anytime you need. You can easily share your trackers with other users, create groups and even edit your trackers as you see fit. In this model you can manage basic permissions, Admin and User/View permissions. Editing trackers, and groups are only possible for Admin users. Users with View permission are not able to edit or even add trackers. Admin users are also able to access the application's API. Subscription Fee: See monthly subscription fee. The Enterprise subscription allows you to manage hundreds of trackers at the same time. Trackers are monitored real time and the data is stored for a specific time so you can check the tracker's history anytime you need. Sophisticated diagnostics and data analysis are also available in this model. Furthermore, you can create nested groups and hierarchy within your fleet with highly defined user access management options. Admin users are also able to access the application's API. Subscription Fee: request offer."
+        },
+        {
+          "id": 2,
+          "question": "How can I register trackers?",
+          "answer": "After tapping tracker's list, you can either tap on the “plus” sign or the “+Tracker” button to add a new tracker. Depending on what device you wish to track, you can buy a new tracker for your car or add a new tracker for tracking a mobile phone."
+        },
+        {
+          "id": 3,
+          "question": "How can I register cars as trackers?",
+          "answer": "After ordering a new tracker for your car, we will assign the tracker to your account in the background. The only thing you need to do is connect the tracker’s power cables to the car’s battery, which will automatically turn the tracker on, and you will be able to see the tracker on your trackers list."
+        },
+        {
+          "id": 4,
+          "question": "How can I register mobile phones as trackers?",
+          "answer": "In case you wish to track mobile phones, the first step is to download Nyomio on the phone you want to track. Location Services must be enabled on the phone. See how ->. After installing the app and enabling location services, you can easily share the tracker with other Nyomio users allowing them to see your location. See how ->."
+        },
+        {
+          "id": 5,
+          "question": "How can I enable location services on my mobile phone - Android?",
+          "answer": "First tap on the ‘Settings’, then on ’Location’, and move the slider to ‘On’. By tapping on ‘Mode’ you can select the ‘Mode’ you prefer."
+        },
+        {
+          "id": 6,
+          "question": "How can I enable location services on my mobile phone - IOS?",
+          "answer": "First tap on the ‘Settings’ then on ‘Privacy’, and finally, please, tap on ‘Location Services’. Move the ‘Location Services’ slider to on/green. Location Services are now turned on and Nyomio can start accessing your location right away."
+        },
+      ]
+    },
+    {
+      "name": "trackers",
+      "id": 1,
+      "categories": [
+        {
+          "id": 0,
+          "question": "How can I register trackers?",
+          "answer": "After tapping trackers list, you can either tap on the plus sign or the +Tracker button to add a new tracker. Depending on what device you wish to track, you can buy a new tracker for your car or add a new tracker for tracking a mobile phone. cars Tracker install: attach the trackers power cables to the cars battery ??? phones Enable location services on phone ???"
+        },
+        {
+          "id": 1,
+          "question": "How can I enable location services on my phone?",
+          "answer": "android First tap on the Settings, then on Location, and move the slider to On. By tapping on Mode you can select the Mode you prefer: High accuracy: Delivers the most accurate location information by using GPS, Wi-Fi networks, Bluetooth, and cellular networks to determine your location. It's got the highest accuracy, but it uses more battery and has less privacy. Battery saving: Saves battery by not using GPS, but still uses the other technologies. Less accurate and it has lower privacy. Device only: Best if you care a lot about privacy and are OK with somewhat less accurate data. Because it doesn't use cellular, Wi-Fi, or Bluetooth, it leaves fewer digital tracks. IOS First tap on the Settings then on Privacy, and finally, please, tap on Location Services. Move the Location Services slider to on/green. Location Services are now turned on and Nyomio can start accessing your location right away."
+        },
+        {
+          "id": 2,
+          "question": " I can't see trackers on the list",
+          "answer": "Please, make sure you have gone through the process of adding a new tracker."
+        },
+        {
+          "id": 3,
+          "question": "I can't see trackers on the map",
+          "answer": "Have I added the tracker properly? Please, make sure you have gone through all the process of adding a new tracker.  See how Are the Location Services turned on? If you are still unable to see the tracker you wish, please, make sure the Location Services of the device you wish to track, are turned on. See how  Is the tracking on in Nyomio? After logging in to Nyomio, please, tap on the Tracker, then on the Advanced button. If the tracking is not ticked, please, tap on it to turn the tracking on. "
+        },
+        {
+          "id": 4,
+          "question": "How can I edit tracker's information?",
+          "answer": "After tapping on Trackers’ List, please, tap on the cogwheel next to the tracker’s name. "
+        },
+        {
+          "id": 5,
+          "question": "How can I see the tracker's history?",
+          "answer": "After tapping on the tracker shown on the map, please, tap on the ‘clock’ sign, where you can find the tracker’s history which is shown on the map or in a chart. "
+        },
+        {
+          "id": 6,
+          "question": "How can I share trackers?",
+          "answer": "After tapping on Trackers’ List, please, tap on the cogwheel next to the tracker’s name. On the ‘Sharing’ tab, you can find a ‘Share’ button which you can use to share the tracker with another user. "
+        }
+      ]
+    },
+    {
+      "name": "account",
+      "id": 2,
+      "categories": [
+        {
+          "id": 0,
+          "question": "How can I create an account?",
+          "answer": "You can easily create a new account by either registering a completely new one or using your Google, Facebook or Microsoft account. For registering a completely new account, you need to provide a valid email address and a password."
+        },
+        {
+          "id": 1,
+          "question": "How can I reset my password?",
+          "answer": "You can change your password anytime by tapping on your profile. On the ‘Account’ tab you can find the option ‘Change password’. "
+        },
+        {
+          "id": 2,
+          "question": "How can I upgrade my subscription?",
+          "answer": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+        },
+        {
+          "id": 3,
+          "question": "My tracker has been lost or stolen",
+          "answer": "In order to upgrade your account, please tap on your profile, and on the 'Subscription’ tab. Please, tap on the Upgrade button next to your subscription. "
+        },
+        {
+          "id": 4,
+          "question": "How can I edit billing information?",
+          "answer": "In order to change billing information, please, tap on you profile, and on the ‘Subscription’ tab where you can edit the billing information. "
+        }
+      ]
+    },
+    {
+      "name": "profile",
+      "id": 3,
+      "categories": [
+        {
+          "id": 0,
+          "question": "How can I edit personal information?",
+          "answer": "You can change your personal information by tapping on your profile picture, and then on the 'Account' tab. "
+        },
+        {
+          "id": 1,
+          "question": "How can I see payment history?",
+          "answer": "After tapping on you profile, and on the ‘Subscription’ tab, you can see your ‘Payment history’ from where you can also download your invoices in PDF format. "
+        }
+      ]
+    },
+    {
+      "name": "nyomio",
+      "id": 0,
+      "categories": [
+        {
+          "id": 0,
+          "question": "Why is Nyomio useful?",
+          "answer": "Whether you wish to track your employees or want to make sure your child is going to school properly, Nyomio is a suitable app for tracking those who are important for you and your business. Using real time GPS tracking, Nyomio can monitor trackers movements on a map and store them in a database. It is perfect for personal use and for managing fleets or employees. "
+        },
+        {
+          "id": 1,
+          "question": "What is real time GPS tracking?",
+          "answer": "Real-time GPS trackers allow users to monitor persons, animals, vehicles, or, really, anything else in real time. The user can track the subject's movement through frequent data updates that range from every few seconds to every few hours. GPS tracking uses a network of satellites to determine the location of a device. The difference between a GPS tracker and a normal, well-known car navigation system is that the navigation system provides you with your location and driving directions only, while a tracker either keeps a record of your driving habits or broadcasts its location in real-time. "
+        }
+      ]
+    },
+    {
+      "name": "more",
+      "id": 0,
+      "categories": [
+        {
+          "id": 0,
+          "question": "Is there a possibility for IT integration?",
+          "answer": "Pro and Enterprise users have access to the application's API which makes IT integration possible."
+        },
+        {
+          "id": 1,
+          "question": "What is API?",
+          "answer": "API stands for Application Programming Interface. It is a software intermediary that allows two applications to talk to each other. Like a messenger of some sort. A good API makes it easier to develop a program by providing the building blocks, which means your developers do not need to start to create code from scratch. If they do not have to reinvent the wheel, they can save time by focusing on the unique proposition of their applications. API saves time to your developers, saves money to you."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 0,
+      "topicId": 0,
+      "categoryId": 0,
+      "question": "how to edit tracker infos",
+      "answer": "After tapping on Trackers List, please, tap on the cogwheel next to the trackers name. "
+    },
+    {
+      "id": 1,
+      "topicId": 1,
+      "categoryId": 2,
+      "question": "how to see tracker history",
+      "answer": "After tapping on the tracker shown on the map, please, tap on the clock sign, where you can find the trackers history which is shown on the map or in a chart."
+    },
+    {
+      "id": 2,
+      "categoryId": 3,
+      "topicId": 2,
+      "question": "how to reset tracker history",
+      "answer": "After tapping on Trackers List, please, tap on the cogwheel next to the trackers name. Then, please, go to the Advanced tab where you can find the Reset tracker/ delete history button. By using that, you can either reset the tracker or delete its history. "
+    },
+    {
+      "id": 3,
+      "categoryId": 0,
+      "topicId": 3,
+      "question": "how to delete tracker",
+      "answer": "After tapping on Trackers List, please, tap on the cogwheel next to the trackers name. Then, please, go to the Advanced tab where you can find the Delete Tracker button. By using that, you can delete any tracker."
+    },
+    {
+      "id": 4,
+      "categoryId": 4,
+      "topicId": 2,
+      "question": "how to transfer ownership",
+      "answer": "After tapping on Trackers List, please, tap on the cogwheel next to the trackers name. Then, please, go to the Advanced tab where you can find the Transfer ownership button. By using that, you can transfer ownership of a tracker to another user."
+    },
+    {
+      "id": 5,
+      "categoryId": 4,
+      "topicId": 3,
+      "question": "how to run diagnostics",
+      "answer": "After tapping on Trackers List, please, tap on the cogwheel next to the trackers name. Then, please, go to the Advanced tab where you can find the Diagnostics button. By using that, you can run a diagnostic on your trackers with different parameters."
+    },
+    {
+      "id": 6,
+      "categoryId": 5,
+      "topicId": 0,
+      "question": "how to share tracker or location",
+      "answer": "After tapping on Trackers List, please, tap on the cogwheel next to the trackers name. On the Sharing tab, you can find a Share button which you can use to share the tracker with another user."
+    },
+    {
+      "id": 7,
+      "categoryId": 6,
+      "topicId": 3,
+      "question": "payment and billing option",
+      "answer": "In order to upgrade your account you can choose from the following payment methods: bank or credit card (mastercard or visa???), transferwise, revolut, paypal, payoneer??? In order to upgrade or change billing information, please, tap on you profile, and on the Subscription tab, you can edit the billing information or upgrade your subscription. Payment history After tapping on you profile, and on the Subscription tab, you can see your Payment history from where you can also download your invoices in PDF format."
+    },
+    {
+      "id": 8,
+      "topicId": 1,
+      "categoryId": 1,
+      "question": " how to reset password",
+      "answer": "You can change your password anytime by tapping on your profile. On the Account tab you can find the option Change password. can the account be locked? if so, how to unlock it? what if user cannot log in at all? "
+    },
+    {
+      "id": 9,
+      "topicId": 3,
+      "categoryId": 4,
+      "question": " why is it useful?",
+      "answer": "Whether you wish to track your employees or want to make sure your child is going to school properly, Nyomio is a suitable app for tracking those who are important for you and your business. Using real time GPS tracking, Nyomio can monitor trackers movements on a map and store them in a database. It is perfect for personal use and for managing fleets or employees. "
+    },
+    {
+      "id": 10,
+      "categoryId": 1,
+      "topicId": 2,
+      "question": " what is real time GPS tracking?",
+      "answer": "Real-time GPS trackers allow users to monitor persons, animals, vehicles, or, really, anything else in real time. The user can track the subject's movement through frequent data updates that range from every few seconds to every few hours. GPS tracking uses a network of satellites to determine the location of a device. The difference between a GPS tracker and a normal, well-known car navigation system is that the navigation system provides you with your location and driving directions only, while a tracker either keeps a record of your driving habits or broadcasts its location in real-time."
+    },
+    {
+      "id": 11,
+      "categoryId": 0,
+      "topicId": 4,
+      "question": "ipsum lorem track......?",
+      "answer": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "id": 12,
+      "categoryId": 2,
+      "topicId": 2,
+      "question": "Lorem tracker ipsum......?",
+      "answer": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "id": 13,
+      "categoryId": 0,
+      "topicId": 3,
+      "question": "Lorem ipsum tracking......?",
+      "answer": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "id": 14,
+      "categoryId": 4,
+      "topicId": 0,
+      "question": "ipsum lorem track......?",
+      "answer": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "id": 15,
+      "categoryId": 4,
+      "topicId": 3,
+      "question": "How to edit github?",
+      "answer": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    }
+  ],
+  "socialmedia": [
+    {
+      "name": "Facebook",
+      "appId": "217358655031408",
+      "url": "https://www.facebook.com/inetrackHU/"
+    },
+    {
+      "name": "Instagram",
+      "appId": "",
+      "url": "https://www.instagram.com/inetrack/?hl=en"
+    },
+    {
+      "name": "Twitter",
+      "appId": "",
+      "url": "https://twitter.com/inetrack?lang=en"
+    }
+  ]
+}

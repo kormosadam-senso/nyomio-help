@@ -1,0 +1,46 @@
+{
+  "id": 1,
+  "subscription": {
+    "created": "2020-01-25T13:19:23.216Z",
+    "name": "Basic"
+  },
+  "billingAddress": {
+    "name": "Inepex Zrt.",
+    "country": "Hungary",
+    "zipCode": 1054,
+    "city": "Budapest",
+    "address1": "Honvéd utca 8.",
+    "address2": "1.em.2."
+  },
+  "shippingAddress": {
+    "name": "Inepex Zrt.",
+    "country": "Hungary",
+    "zipCode": 1054,
+    "city": "Budapest",
+    "address1": "Honvéd utca 8.",
+    "address2": "1.em.2."
+  },
+  "payment": {
+    "type": "Credit card"
+  },
+  "paymentHistory": [
+    {
+      "date": "2020-01-01",
+      "name": "Invoice #123",
+      "amount": "12700",
+      "url": "https://templates.invoicehome.com/invoice-template-us-neat-750px.png"
+    },
+    {
+      "date": "2019-12-01",
+      "name": "Invoice #122",
+      "amount": "12700",
+      "url": "https://templates.invoicehome.com/invoice-template-us-neat-750px.png"
+    },
+    {
+      "date": "2019-11-01",
+      "name": "Invoice #121",
+      "amount": "12700",
+      "url": "https://templates.invoicehome.com/invoice-template-us-neat-750px.png"
+    }
+  ]
+}

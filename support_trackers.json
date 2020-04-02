@@ -1,0 +1,272 @@
+[
+ {
+   "id": 1,
+   "name": "tracker1 bubble",
+   "description": "bubble thirty-seven african",
+   "expireDate": "2020.07.01",
+   "latitude": 45.375676,
+   "longitude": 19.184997,
+   "image": "http://demo.schrott.hu/car001.png"
+ },
+ {
+   "id": 2,
+   "name": "tracker2 thirty-seven",
+   "description": "pinch xpound restoring",
+   "expireDate": "2020.07.02",
+   "latitude": 45.456944,
+   "longitude": 19.204413,
+   "image": "http://demo.schrott.hu/car002.png"
+ },
+ {
+   "id": 3,
+   "name": "tracker3 african",
+   "description": "scent virtually molten",
+   "expireDate": "2020.07.03",
+   "latitude": 45.385148,
+   "longitude": 19.179993,
+   "image": "http://demo.schrott.hu/car003.png"
+ },
+ {
+   "id": 4,
+   "name": "tracker4 pinch",
+   "description": "aisle hemorrhage redemption",
+   "expireDate": "2020.07.04",
+   "latitude": 45.478595,
+   "longitude": 19.199028,
+   "image": "http://demo.schrott.hu/car004.png"
+ },
+ {
+   "id": 5,
+   "name": "tracker5 expound",
+   "description": "perseverance constable dismissal",
+   "expireDate": "2020.07.05",
+   "latitude": 45.505917,
+   "longitude": 19.201902,
+   "image": "http://demo.schrott.hu/car005.png"
+ },
+ {
+   "id": 6,
+   "name": "tracker6 restoring",
+   "description": "rife quote temporal",
+   "expireDate": "2020.07.06",
+   "latitude": 45.390745,
+   "longitude": 19.188082,
+   "image": "http://demo.schrott.hu/car006.png"
+ },
+ {
+   "id": 7,
+   "name": "tracker7 scent",
+   "description": "racetrack traffic belie",
+   "expireDate": "2020.07.07",
+   "latitude": 45.448149,
+   "longitude": 19.208609,
+   "image": "http://demo.schrott.hu/car007.png"
+ },
+ {
+   "id": 8,
+   "name": "tracker8 virtually",
+   "description": "owl el paso idyllic",
+   "expireDate": "2020.07.08",
+   "latitude": 45.561398,
+   "longitude": 19.190707,
+   "image": "http://demo.schrott.hu/car008.png"
+ },
+ {
+   "id": 9,
+   "name": "tracker9 molten",
+   "description": "segment annabella amongst",
+   "expireDate": "2020.07.09",
+   "latitude": 45.617671,
+   "longitude": 19.184803,
+   "image": "http://demo.schrott.hu/car009.png"
+ },
+ {
+   "id": 10,
+   "name": "tracker10 aisle",
+   "description": "nanotechnology gripe resident",
+   "expireDate": "2020.07.10",
+   "latitude": 45.547345,
+   "longitude": 19.183663,
+   "image": "http://demo.schrott.hu/car010.png"
+ },
+ {
+   "id": 11,
+   "name": "tracker11 hemorrhage",
+   "description": "germinate twenty militant",
+   "expireDate": "2020.07.11",
+   "latitude": 45.487438,
+   "longitude": 19.176179,
+   "image": "http://demo.schrott.hu/car011.png"
+ },
+ {
+   "id": 12,
+   "name": "tracker12 redemption",
+   "description": "humbly generally age-old",
+   "expireDate": "2020.07.12",
+   "latitude": 45.410759,
+   "longitude": 19.184771,
+   "image": "http://demo.schrott.hu/car012.png"
+ },
+ {
+   "id": 13,
+   "name": "tracker13 perseverance",
+   "description": "theorist indifference overjoyed",
+   "expireDate": "2020.07.13",
+   "latitude": 45.63419,
+   "longitude": 19.179777,
+   "image": "http://demo.schrott.hu/car013.png"
+ },
+ {
+   "id": 14,
+   "name": "tracker14 constable",
+   "description": "stone deficient though",
+   "expireDate": "2020.07.14",
+   "latitude": 45.532186,
+   "longitude": 19.176185,
+   "image": "http://demo.schrott.hu/car014.png"
+ },
+ {
+   "id": 15,
+   "name": "tracker15 dismissal",
+   "description": "thirty-one acquired motel",
+   "expireDate": "2020.07.15",
+   "latitude": 45.35318,
+   "longitude": 19.175474,
+   "image": "http://demo.schrott.hu/car015.png"
+ },
+ {
+   "id": 16,
+   "name": "tracker16 rife",
+   "description": "ok childish preoccupied",
+   "expireDate": "2020.07.16",
+   "latitude": 45.39577,
+   "longitude": 19.198675,
+   "image": "http://demo.schrott.hu/car016.png"
+ },
+ {
+   "id": 17,
+   "name": "tracker17 quote",
+   "description": "great-grandfather devote dialog",
+   "expireDate": "2020.07.17",
+   "latitude": 45.520883,
+   "longitude": 19.180287,
+   "image": "http://demo.schrott.hu/car017.png"
+ },
+ {
+   "id": 18,
+   "name": "tracker18 temporal",
+   "description": "search body traffic",
+   "expireDate": "2020.07.18",
+   "latitude": 45.620157,
+   "longitude": 19.183932,
+   "image": "http://demo.schrott.hu/car001.png"
+ },
+ {
+   "id": 19,
+   "name": "tracker19 racetrack",
+   "description": "staple dryer anaheim",
+   "expireDate": "2020.07.19",
+   "latitude": 45.455321,
+   "longitude": 19.174327,
+   "image": "http://demo.schrott.hu/car002.png"
+ },
+ {
+   "id": 20,
+   "name": "tracker20 traffic",
+   "description": "celebrity anyplace meld",
+   "expireDate": "2020.07.20",
+   "latitude": 45.363527,
+   "longitude": 19.194306,
+   "image": "http://demo.schrott.hu/car003.png"
+ },
+ {
+   "id": 21,
+   "name": "tracker21 belie",
+   "description": "breed can hit",
+   "expireDate": "2020.07.21",
+   "latitude": 45.463373,
+   "longitude": 19.170048,
+   "image": "http://demo.schrott.hu/car004.png"
+ },
+ {
+   "id": 22,
+   "name": "tracker22 owl",
+   "description": "videotaped drift lilah",
+   "expireDate": "2020.07.22",
+   "latitude": 45.556297,
+   "longitude": 19.197565,
+   "image": "http://demo.schrott.hu/car005.png"
+ },
+ {
+   "id": 23,
+   "name": "tracker23 el paso",
+   "description": "bluff skylar preschooler",
+   "expireDate": "2020.07.23",
+   "latitude": 45.501153,
+   "longitude": 19.184588,
+   "image": "http://demo.schrott.hu/car006.png"
+ },
+ {
+   "id": 24,
+   "name": "tracker24 idyllic",
+   "description": "realistically acknowledge turret",
+   "expireDate": "2020.07.24",
+   "latitude": 45.632455,
+   "longitude": 19.208211,
+   "image": "http://demo.schrott.hu/car007.png"
+ },
+ {
+   "id": 25,
+   "name": "tracker25 segment",
+   "description": "half-mile civilian serpent",
+   "expireDate": "2020.07.25",
+   "latitude": 45.498136,
+   "longitude": 19.172338,
+   "image": "http://demo.schrott.hu/car008.png"
+ },
+ {
+   "id": 26,
+   "name": "tracker26 annabella",
+   "description": "survey taxi layer",
+   "expireDate": "2020.07.26",
+   "latitude": 45.439968,
+   "longitude": 19.194432,
+   "image": "http://demo.schrott.hu/car009.png"
+ },
+ {
+   "id": 27,
+   "name": "tracker27 amongst",
+   "description": "cowboy hybrid fortification",
+   "expireDate": "2020.07.27",
+   "latitude": 45.450096,
+   "longitude": 19.196268,
+   "image": "http://demo.schrott.hu/car010.png"
+ },
+ {
+   "id": 28,
+   "name": "tracker28 nanotechnology",
+   "description": "stir face petty",
+   "expireDate": "2020.07.28",
+   "latitude": 45.43798,
+   "longitude": 19.181982,
+   "image": "http://demo.schrott.hu/car011.png"
+ },
+ {
+   "id": 29,
+   "name": "tracker29 gripe",
+   "description": "deny regret worry",
+   "expireDate": "2020.07.29",
+   "latitude": 45.366806,
+   "longitude": 19.182713,
+   "image": "http://demo.schrott.hu/car012.png"
+ },
+ {
+   "id": 30,
+   "name": "tracker30 resident",
+   "description": "arousal disapproving twofold",
+   "expireDate": "2020.07.30",
+   "latitude": 45.611352,
+   "longitude": 19.172731,
+   "image": "http://demo.schrott.hu/car013.png"
+ }
+]
